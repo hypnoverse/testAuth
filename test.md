@@ -9,3 +9,4 @@ Bug fix 3 for cars go here.
 Fruits:
 Fruit 1
 Fruit 2
+Fruit 3
