@@ -6,4 +6,5 @@ Car 3
 
 
 Fruits:
-
+Fruit 1
+Fruit 2
